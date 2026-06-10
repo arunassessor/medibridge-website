@@ -1,0 +1,1 @@
+console.log('MEDI BRIDGE website loaded');
